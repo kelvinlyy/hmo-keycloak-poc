@@ -1,5 +1,7 @@
 # HMO Keycloak POC
 
+This repo aims to demonstrate the use of Keycloak in node.JS
+
 ## Build and Deploy
 
 1. Run the command
